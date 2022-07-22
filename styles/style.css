@@ -139,7 +139,9 @@ border-radius: 10px;
  .container{
     display: flex;
     justify-content: center;
-    height: 200px;
+    height: 100px;
+    margin-top: 10px;
+    padding-top: 50px;
   
  }
  .item{
