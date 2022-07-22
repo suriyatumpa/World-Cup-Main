@@ -6,7 +6,8 @@ body{
 /* Section-1 Styles */
 h1{
     font-weight: 700;
-    font-size: 30px;
+    font-size: 40px;
+    color: white;
 }
 .player{
 display: flex;
@@ -87,7 +88,7 @@ border-radius: 10px;
 
 .part-2{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3,0fr);
     grid-column-gap:1fr;
     grid-row-gap: 1fr;
     
